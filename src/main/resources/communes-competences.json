@@ -1,0 +1,122 @@
+[
+  {
+    "texte": "Quelle compétence relève des communes en matière d'urbanisme ?",
+    "propositions": ["Gestion nationale des villes", "Élaboration et exécution des plans d'urbanisme locaux", "Construction de routes nationales", "Aucune"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 27 attribue aux communes l'élaboration et l'exécution des plans d'urbanisme et d'aménagement du territoire communal."
+  },
+  {
+    "texte": "Les communes sont-elles compétentes pour la voirie communale ?",
+    "propositions": ["Non", "Oui, construction, entretien et gestion", "Seulement les routes intercommunales", "Uniquement les trottoirs"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 28 confie aux communes la voirie communale, incluant construction, entretien et gestion."
+  },
+  {
+    "texte": "En matière d'eau, quelle est la compétence des communes ?",
+    "propositions": ["Gestion des barrages", "Fourniture et distribution d'eau potable", "Exportation d'eau", "Traitement des eaux fluviales"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 29 attribue aux communes la fourniture et la distribution d'eau potable."
+  },
+  {
+    "texte": "Les communes gèrent-elles l'assainissement ?",
+    "propositions": ["Non", "Oui, collecte et traitement des déchets solides et liquides", "Seulement les déchets industriels", "Uniquement les eaux pluviales"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 30 confie aux communes l'assainissement, incluant collecte et traitement des déchets."
+  },
+  {
+    "texte": "Quelle est la compétence des communes en éducation ?",
+    "propositions": ["Universitaire", "Maternelle et primaire : réalisation et entretien", "Secondaire uniquement", "Aucune"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 31 attribue aux communes la réalisation, l'équipement et l'entretien des établissements maternels et primaires."
+  },
+  {
+    "texte": "Les communes sont-elles compétentes pour la santé primaire ?",
+    "propositions": ["Non", "Oui, centres de santé communaux", "Hôpitaux nationaux", "Recherche médicale"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 32 confie aux communes la santé primaire, incluant les centres de santé communaux."
+  },
+  {
+    "texte": "En matière d'environnement, les communes protègent-elles les espaces verts ?",
+    "propositions": ["Non", "Oui, aménagement et protection", "Seulement les parcs nationaux", "Uniquement les forêts"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 33 attribue aux communes l'aménagement et la protection des espaces verts et naturels."
+  },
+  {
+    "texte": "Les communes gèrent-elles les marchés locaux ?",
+    "propositions": ["Non", "Oui, construction et gestion", "Seulement les supermarchés", "Uniquement les foires internationales"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 34 confie aux communes la construction et la gestion des marchés locaux."
+  },
+  {
+    "texte": "Quelle compétence ont les communes en culture et tourisme ?",
+    "propositions": ["Gestion des musées nationaux", "Promotion du tourisme local et infrastructures culturelles", "Exportation d'art", "Aucune"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 35 attribue aux communes la promotion du tourisme et des infrastructures culturelles locales."
+  },
+  {
+    "texte": "Les communes organisent-elles les transports urbains ?",
+    "propositions": ["Non", "Oui, organisation des transports collectifs urbains", "Seulement les taxis", "Uniquement les aéroports"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 36 confie aux communes l'organisation des transports collectifs urbains."
+  },
+  {
+    "texte": "Les communes sont-elles compétentes pour l'électricité locale ?",
+    "propositions": ["Non", "Oui, production et distribution locale d'électricité", "Seulement les centrales nucléaires", "Uniquement l'importation"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 37 attribue aux communes la production et distribution locale d'électricité."
+  },
+  {
+    "texte": "En matière de sport, les communes réalisent-elles des infrastructures ?",
+    "propositions": ["Non", "Oui, équipements sportifs locaux", "Seulement olympiques", "Uniquement professionnels"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 38 confie aux communes la réalisation et l'entretien des équipements sportifs locaux."
+  },
+  {
+    "texte": "Les communes gèrent-elles les cimetières ?",
+    "propositions": ["Non", "Oui, création et gestion", "Seulement privés", "Uniquement religieux"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 39 attribue aux communes la création et la gestion des cimetières."
+  },
+  {
+    "texte": "Quelle est la compétence des communes en promotion sociale ?",
+    "propositions": ["Non", "Oui, actions de promotion sociale et familiale", "Seulement pour les enfants", "Uniquement pour les seniors"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 40 confie aux communes les actions de promotion sociale."
+  },
+  {
+    "texte": "Les communes peuvent-elles créer des services publics locaux ?",
+    "propositions": ["Non", "Oui, pour toute matière relevant de leurs compétences", "Seulement économiques", "Uniquement délégués"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 41 permet aux communes de créer des services publics locaux pour leurs compétences."
+  },
+  {
+    "texte": "Les compétences des communes sont-elles exclusives ?",
+    "propositions": ["Oui", "Non, certaines sont partagées avec l'État", "Toujours partagées", "Uniquement exclusives pour les finances"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 26 distingue les compétences propres et celles transférées ou partagées avec l'État."
+  },
+  {
+    "texte": "L'État peut-il déléguer des compétences aux communes ?",
+    "propositions": ["Non", "Oui, par convention avec ressources nécessaires", "Seulement pour les départements", "Uniquement pour les arrondissements"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 42 permet à l'État de déléguer des compétences aux communes par convention."
+  },
+  {
+    "texte": "Les communes peuvent-elles s'associer pour exercer des compétences ?",
+    "propositions": ["Non", "Oui, via des établissements publics intercommunaux", "Seulement avec l'État", "Uniquement pour les finances"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 43 autorise les communes à s'associer pour exercer des compétences communes."
+  },
+  {
+    "texte": "Les transferts de compétences s'accompagnent-ils de ressources ?",
+    "propositions": ["Non", "Oui, transfert concomitant de ressources nécessaires", "Seulement financières", "Uniquement humaines"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 44 prévoit que les transferts de compétences sont accompagnés de ressources équivalentes."
+  },
+  {
+    "texte": "La loi définit-elle les compétences exclusives des communes ?",
+    "propositions": ["Non", "Oui, listées aux articles 27 à 40", "Seulement partagées", "Uniquement pour les villes"],
+    "bonneReponseIndex": 1,
+    "explication": "Les articles 27 à 40 listent les compétences exclusives des communes."
+  }
+]

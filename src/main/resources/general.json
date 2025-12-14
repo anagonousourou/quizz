@@ -1,0 +1,122 @@
+[
+  {
+    "texte": "Quelle est la date de promulgation de la loi n° 2021-14 ?",
+    "propositions": ["20 octobre 2021", "20 décembre 2021", "07 janvier 2022", "23 décembre 2021"],
+    "bonneReponseIndex": 1,
+    "explication": "La loi n° 2021-14 a été promulguée le 20 décembre 2021, comme indiqué dans le Journal Officiel."
+  },
+  {
+    "texte": "Quel est l'objet principal de la loi n° 2021-14 ?",
+    "propositions": ["Réglementer le secteur de l'électricité", "Porter code de l'administration territoriale", "Modifier le code des personnes et de la famille", "Protéger le patrimoine culturel"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 1 définit l'objet comme le cadre général de l'administration territoriale et de la décentralisation."
+  },
+  {
+    "texte": "Combien de départements compte la République du Bénin selon le découpage territorial actuel ?",
+    "propositions": ["6", "9", "12", "15"],
+    "bonneReponseIndex": 2,
+    "explication": "L'article 6 liste 12 départements : Alibori, Atacora, Atlantique, Borgou, Collines, Couffo, Donga, Littoral, Mono, Ouémé, Plateau, Zou."
+  },
+  {
+    "texte": "Quelle est l'unité administrative de base dans la décentralisation béninoise ?",
+    "propositions": ["Le département", "La commune", "L'arrondissement", "Le village"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 3 définit la commune comme l'unité administrative de base dotée de la personnalité morale."
+  },
+  {
+    "texte": "Les communes sont-elles des collectivités territoriales décentralisées ?",
+    "propositions": ["Non, elles relèvent uniquement de l'État central", "Oui, avec autonomie financière et administrati...",
+      "bonneReponseIndex": 1,
+      "explication": "L'article 3 confirme que les communes sont des collectivités territoriales décentralisées avec personnalité morale et autonomie financière."
+      },
+      {
+        "texte": "La loi n° 2021-14 abroge-t-elle des lois antérieures sur la décentralisation ?",
+        "propositions": ["Non, elle les complète seulement", "Oui, notamment les lois précédentes sur l'administrati...", "Elle n'abroge rien", "Uniquement la loi sur les impôts"],
+        "bonneReponseIndex": 1,
+        "explication": "L'article 566 abroge la loi n° 97-029 du 15 janvier 1999 et ses modificatives, ainsi que toutes dispositions contraires."
+      },
+      {
+        "texte": "Sur quel critère sont déterminés les chefs-lieux de département ?",
+        "propositions": ["Le nombre d'habitants uniquement", "Poids démographique, économique et infrastructures", "Décision du maire", "Proximité de la capitale seulement"],
+        "bonneReponseIndex": 1,
+        "explication": "L'article 6 indique que les chefs-lieux sont déterminés en fonction du poids démographique, économique et de la qualité des infrastructures."
+      },
+      {
+        "texte": "Les villages et quartiers de ville sont-ils des collectivités territoriales ?",
+        "propositions": ["Oui, décentralisées", "Non, ce sont des démembrements de la commune", "Seulement les quartiers de ville", "Oui, mais sans autonomie"],
+        "bonneReponseIndex": 1,
+        "explication": "L'article 4 définit les villages et quartiers comme des démembrements de la commune, sans statut de collectivité territoriale."
+      },
+      {
+        "texte": "La décentralisation au Bénin est-elle conforme à la Constitution ?",
+        "propositions": ["Non", "Oui, elle respecte les principes de l'article 150 de la Constitution de 1990", "Seulement pour les finances", "Uniquement pour les départements"],
+        "bonneReponseIndex": 1,
+        "explication": "L'article 2 précise que la décentralisation est organisée conformément aux principes de la Constitution du 11 décembre 1990."
+      },
+      {
+        "texte": "Quand la loi n° 2021-14 entre-t-elle en vigueur ?",
+        "propositions": ["Immédiatement", "60 jours après publication", "À compter de sa publication au Journal officiel", "1er janvier 2022"],
+        "bonneReponseIndex": 2,
+        "explication": "L'article 567 stipule que la loi entre en vigueur à compter de sa publication au Journal officiel."
+      },
+      {
+        "texte": "Le département est-il une collectivité territoriale décentralisée ?",
+        "propositions": ["Oui, avec autonomie financière", "Non, c'est un cadre de l'administration déconcentrée de l'État", "Seulement pour les grandes régions", "Oui, mais sans conseil élu"],
+        "bonneReponseIndex": 1,
+        "explication": "L'article 5 définit le département comme un cadre de l'administration déconcentrée de l'État, sans statut de collectivité territoriale décentralisée."
+      },
+      {
+        "texte": "Combien de communes compte le Bénin selon la loi ?",
+        "propositions": ["50", "77", "90", "100"],
+        "bonneReponseIndex": 1,
+        "explication": "L'annexe liste 77 communes réparties dans les 12 départements."
+      },
+      {
+        "texte": "L'arrondissement est-il une subdivision de la commune ?",
+        "propositions": ["Non, du département", "Oui, il est doté d'un conseil élu", "Seulement dans les villes", "Non, c'est indépendant"],
+        "bonneReponseIndex": 1,
+        "explication": "L'article 4 définit l'arrondissement comme une subdivision administrative de la commune, avec un conseil d'arrondissement."
+      },
+      {
+        "texte": "La loi prévoit-elle la création de nouvelles communes ?",
+        "propositions": ["Non", "Oui, par loi spécifique", "Uniquement par décret", "Seulement pour les départements"],
+        "bonneReponseIndex": 1,
+        "explication": "L'article 7 permet la création, suppression ou modification des collectivités territoriales par la loi."
+      },
+      {
+        "texte": "Les collectivités territoriales ont-elles le droit d'ester en justice ?",
+        "propositions": ["Non", "Oui, elles ont la personnalité morale", "Seulement les départements", "Uniquement avec autorisation du préfet"],
+        "bonneReponseIndex": 1,
+        "explication": "L'article 3 confère aux communes la personnalité morale, leur permettant d'ester en justice et de posséder des biens."
+      },
+      {
+        "texte": "Quel est le principe fondamental de la décentralisation au Bénin ?",
+        "propositions": ["Centralisation", "Libre administration des collectivités territoriales", "Tutelle stricte de l'État", "Uniformité administrative"],
+        "bonneReponseIndex": 1,
+        "explication": "L'article 2 énonce que la décentralisation repose sur la libre administration des collectivités territoriales."
+      },
+      {
+        "texte": "La loi n° 2021-14 modifie-t-elle le nombre d'arrondissements ?",
+        "propositions": ["Non", "Oui, elle en définit le nombre par commune", "Seulement pour Cotonou", "Uniquement pour les villages"],
+        "bonneReponseIndex": 1,
+        "explication": "L'annexe détaille le nombre d'arrondissements par commune, par exemple 13 pour Cotonou."
+      },
+      {
+        "texte": "Les collectivités territoriales peuvent-elles coopérer avec des entités étrangères ?",
+        "propositions": ["Non", "Oui, dans le cadre de la coopération décentralisée", "Seulement avec autorisation présidentielle", "Uniquement pour les finances"],
+        "bonneReponseIndex": 1,
+        "explication": "L'article 9 permet la coopération décentralisée avec des collectivités étrangères, sous réserve des conventions internationales."
+      },
+      {
+        "texte": "Quelle est la durée du mandat des élus communaux ?",
+        "propositions": ["4 ans", "5 ans", "6 ans", "7 ans"],
+        "bonneReponseIndex": 2,
+        "explication": "L'article 64 fixe le mandat des conseillers communaux à 6 ans, renouvelable."
+      },
+      {
+        "texte": "La loi prévoit-elle des communes à statut particulier ?",
+        "propositions": ["Non", "Oui, comme Cotonou, Porto-Novo et Parakou", "Seulement Cotonou", "Uniquement pour les zones rurales"],
+        "bonneReponseIndex": 1,
+        "explication": "L'article 10 définit des communes à statut particulier pour les villes d'importance nationale comme Cotonou, Porto-Novo et Parakou."
+      }
+    ]

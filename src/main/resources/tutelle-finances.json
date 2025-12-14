@@ -1,0 +1,122 @@
+[
+  {
+    "texte": "Qui exerce la tutelle sur les communes ?",
+    "propositions": ["Le Président", "Le préfet pour le contrôle de légalité", "Le conseil départemental", "Le Ministère des Finances seul"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 207 définit le préfet comme exerçant la tutelle au nom de l'État."
+  },
+  {
+    "texte": "Le contrôle de tutelle est-il a priori ou a posteriori ?",
+    "propositions": ["A priori uniquement", "A posteriori pour la légalité", "Aucun contrôle", "Seulement financier"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 208 indique que la tutelle s'exerce a posteriori sur la légalité des actes."
+  },
+  {
+    "texte": "Le préfet peut-il annuler un acte communal illégal ?",
+    "propositions": ["Non", "Oui, après mise en demeure et saisine du tribunal administratif", "Immédiatement", "Uniquement pour le budget"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 210 permet au préfet de demander l'annulation d'un acte illégal au tribunal administratif après mise en demeure."
+  },
+  {
+    "texte": "Les communes ont-elles un régime financier propre ?",
+    "propositions": ["Non", "Oui, avec budget et comptabilité publique locale", "Identique à l'État", "Sans autonomie"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 281 définit le régime financier des communes avec autonomie budgétaire."
+  },
+  {
+    "texte": "Le budget communal est-il voté par le conseil communal ?",
+    "propositions": ["Non", "Oui, en équilibre réel", "Par le préfet", "Par le secrétaire exécutif"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 282 exige que le budget soit voté en équilibre réel par le conseil communal."
+  },
+  {
+    "texte": "Les ressources des communes incluent-elles des impôts locaux ?",
+    "propositions": ["Non", "Oui, fixés par la loi", "Seulement des dotations de l'État", "Uniquement des dons"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 283 liste les ressources, incluant impôts et taxes locaux."
+  },
+  {
+    "texte": "Le comptable public de la commune est-il le receveur communal ?",
+    "propositions": ["Non", "Oui, nommé par le Ministre des Finances", "Le maire", "Le secrétaire exécutif"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 284 définit le receveur communal comme comptable public, nommé par le Ministre des Finances."
+  },
+  {
+    "texte": "Les communes peuvent-elles emprunter ?",
+    "propositions": ["Non", "Oui, pour investissements avec autorisation", "Librement", "Uniquement auprès de l'État"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 285 autorise les emprunts pour investissements, avec autorisation du Ministre chargé de la décentralisation."
+  },
+  {
+    "texte": "Existe-t-il un fonds d'équipement communal ?",
+    "propositions": ["Non", "Oui, dotation pour investissements", "Seulement pour les petites communes", "Uniquement pour les salaires"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 286 prévoit un fonds d'équipement communal pour les investissements des communes."
+  },
+  {
+    "texte": "Le préfet exerce-t-il un contrôle sur le budget communal ?",
+    "propositions": ["Non", "Oui, approbation si non voté dans les délais", "Toujours", "Uniquement sur les recettes"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 287 permet au préfet d'approuver le budget si le conseil ne le vote pas dans les délais."
+  },
+  {
+    "texte": "Les communes peuvent-elles créer des régies ?",
+    "propositions": ["Non", "Oui, pour les services publics locaux", "Seulement financières", "Uniquement avec accord du préfet"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 288 autorise les communes à créer des régies pour les services publics."
+  },
+  {
+    "texte": "La tutelle financière est-elle exercée par le Ministre des Finances ?",
+    "propositions": ["Non", "Oui, en collaboration avec le préfet", "Seulement pour les impôts", "Uniquement pour les dépenses"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 289 définit la tutelle financière exercée par le Ministre des Finances via le préfet."
+  },
+  {
+    "texte": "Les communes ont-elles un domaine public ?",
+    "propositions": ["Non", "Oui, biens affectés à l'usage public", "Seulement privé", "Uniquement immobilier"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 290 définit le domaine public communal comme les biens affectés à l'usage du public."
+  },
+  {
+    "texte": "Les communes peuvent-elles aliéner leur domaine privé ?",
+    "propositions": ["Non", "Oui, par délibération du conseil", "Seulement avec autorisation du préfet", "Uniquement le domaine public"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 291 permet l'aliénation du domaine privé par délibération du conseil communal."
+  },
+  {
+    "texte": "Le contrôle des comptes communaux est-il assuré par la Cour des comptes ?",
+    "propositions": ["Non", "Oui", "Seulement pour les grandes communes", "Uniquement par le préfet"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 292 confie le contrôle des comptes des communes à la Cour des comptes."
+  },
+  {
+    "texte": "Les communes peuvent-elles recevoir des dons et legs ?",
+    "propositions": ["Non", "Oui, acceptés par délibération", "Seulement de l'État", "Uniquement monétaires"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 293 autorise les communes à recevoir des dons et legs par délibération du conseil."
+  },
+  {
+    "texte": "La loi prévoit-elle un fonds de péréquation ?",
+    "propositions": ["Non", "Oui, pour réduire les inégalités entre communes", "Seulement pour les départements", "Uniquement pour les arrondissements"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 294 instaure un fonds de péréquation pour atténuer les inégalités entre communes."
+  },
+  {
+    "texte": "Les agents communaux relèvent-ils du statut de la fonction publique locale ?",
+    "propositions": ["Non", "Oui", "Seulement les secrétaires", "Uniquement les maires"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 295 définit le statut des agents communaux dans la fonction publique locale."
+  },
+  {
+    "texte": "Le préfet peut-il imposer un budget communal ?",
+    "propositions": ["Non", "Oui, en cas de non-adoption dans les délais", "Toujours", "Uniquement sur demande"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 287 permet au préfet de saisir la Chambre des comptes pour imposer un budget en cas de carence."
+  },
+  {
+    "texte": "Les communes peuvent-elles participer à des sociétés d'économie mixte ?",
+    "propositions": ["Non", "Oui, pour des projets d'intérêt communal", "Seulement avec l'État", "Uniquement privées"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 296 autorise les communes à participer à des sociétés d'économie mixte pour des projets locaux."
+  }
+]

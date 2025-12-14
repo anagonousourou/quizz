@@ -1,0 +1,102 @@
+[
+  {
+    "texte": "Combien de départements compte la République du Bénin selon la loi n° 2021-14 ?",
+    "propositions": ["6", "9", "10", "12"],
+    "bonneReponseIndex": 3
+  },
+  {
+    "texte": "Quelle est l'unité administrative de base dans la décentralisation béninoise ?",
+    "propositions": ["Le département", "La commune", "L'arrondissement", "Le village"],
+    "bonneReponseIndex": 1
+  },
+  {
+    "texte": "Qui représente l'État au niveau du département ?",
+    "propositions": ["Le maire", "Le préfet", "Le chef d’arrondissement", "Le député"],
+    "bonneReponseIndex": 1
+  },
+  {
+    "texte": "Quel est le rôle principal du conseil communal selon l'article 63 ?",
+    "propositions": ["Stipuler des lois fiscales nationales", "Statuer sur toute question d'intérêt communal", "Gérer les ressources humaines de l'État", "Organiser les élections nationales"],
+    "bonneReponseIndex": 1
+  },
+  {
+    "texte": "Comment est déterminé le nombre de conseillers communaux selon l'article 64 ?",
+    "propositions": ["Fixe pour toutes les communes", "En fonction de la population de la commune", "Nommé par le préfet", "Égal au nombre de villages"],
+    "bonneReponseIndex": 1
+  },
+  {
+    "texte": "Quand le conseil communal est-il installé après les élections selon l'article 65 ?",
+    "propositions": ["Immédiatement après proclamation des résultats", "Entre le 1er et le 3e dimanche du mois de février", "Au début de chaque année civile", "Dans les 15 jours suivant les élections"],
+    "bonneReponseIndex": 1
+  },
+  {
+    "texte": "Quel est le délai pour qu'une démission d'un conseiller communal prenne effet selon l'article 83 ?",
+    "propositions": ["Immédiatement", "15 jours après dépôt", "30 jours après dépôt", "60 jours après dépôt"],
+    "bonneReponseIndex": 2
+  },
+  {
+    "texte": "Que doit faire un conseiller communal empêché d'assister à une séance selon l'article 79 ?",
+    "propositions": ["Ne rien faire", "Démissionner automatiquement", "Informer par écrit le maire de son empêchement", "Donner procuration à un autre conseiller"],
+    "bonneReponseIndex": 2
+  },
+  {
+    "texte": "Quel est le rôle principal du secrétaire exécutif communal selon l'article 132 ?",
+    "propositions": ["Représenter l'État dans la commune", "Assurer l'organisation et le fonctionnement des services communaux", "Superviser les finances nationales", "Rédiger les lois communales"],
+    "bonneReponseIndex": 1
+  },
+  {
+    "texte": "Qui assiste le préfet dans l'exercice de ses fonctions selon l'article 14 ?",
+    "propositions": ["Un maire adjoint", "Un secrétaire général", "Un directeur de cabinet", "Un conseiller spécial"],
+    "bonneReponseIndex": 1
+  },
+  {
+    "texte": "Sur quel critère principal sont déterminés les chefs-lieux de département selon l'article 6 ?",
+    "propositions": ["La proximité de la capitale", "Le poids démographique et économique", "La volonté du président de la République", "L'avis exclusif du préfet"],
+    "bonneReponseIndex": 1
+  },
+  {
+    "texte": "Quel est le délai pour former un recours devant le tribunal administratif contre une décision communale selon l'article 81 ?",
+    "propositions": ["15 jours", "1 mois", "2 mois", "3 mois"],
+    "bonneReponseIndex": 2
+  },
+  {
+    "texte": "En cas de réquisition par le préfet (article 141), quel est le rôle du maire ?",
+    "propositions": ["Il doit obéir sans condition", "Il exécute la réquisition sous contrôle de légalité du préfet", "Il peut refuser si cela nuit à la commune", "Il n'a aucun rôle"],
+    "bonneReponseIndex": 1
+  },
+  {
+    "texte": "Quel organe délibérant adopte le budget communal ?",
+    "propositions": ["Le préfet", "Le conseil communal", "Le secrétaire exécutif", "L'Assemblée nationale"],
+    "bonneReponseIndex": 1
+  },
+  {
+    "texte": "Les communes sont-elles dotées de la personnalité morale et de l'autonomie financière ?",
+    "propositions": ["Non, elles dépendent entièrement de l'État", "Oui, selon la Constitution et la présente loi", "Seulement les grandes communes", "Uniquement pour les finances"],
+    "bonneReponseIndex": 1
+  },
+  {
+    "texte": "Qui assure la tutelle de l'État sur les collectivités territoriales ?",
+    "propositions": ["Le président de la République directement", "Le préfet au niveau départemental", "Le ministère de l'Intérieur uniquement", "L'Assemblée nationale"],
+    "bonneReponseIndex": 1
+  },
+  {
+    "texte": "Quelle est la durée du mandat des conseillers communaux ?",
+    "propositions": ["4 ans", "5 ans", "6 ans", "7 ans"],
+    "bonneReponseIndex": 2
+  },
+  {
+    "texte": "Le maire est-il l'autorité exécutive de la commune ?",
+    "propositions": ["Non, c'est le secrétaire exécutif", "Oui, il prépare et exécute les délibérations du conseil", "Seulement en matière financière", "Non, c'est le préfet"],
+    "bonneReponseIndex": 1
+  },
+  {
+    "texte": "Les villages et quartiers de ville ont-ils un statut de collectivité territoriale décentralisée ?",
+    "propositions": ["Oui, au même titre que les communes", "Non, ils sont des démembrements de la commune", "Oui, mais seulement dans les grandes villes", "Non, ils relèvent directement du département"],
+    "bonneReponseIndex": 1
+  },
+  {
+    "texte": "La loi n° 2021-14 abroge-t-elle les anciennes lois sur l'administration territoriale ?",
+    "propositions": ["Non, elle les complète", "Oui, notamment la loi n° 97-029 et ses modificatives", "Seulement certaines dispositions", "Non, elle n'abroge rien"],
+    "bonneReponseIndex": 1
+  }
+]

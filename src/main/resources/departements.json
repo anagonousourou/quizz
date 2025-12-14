@@ -1,0 +1,122 @@
+[
+  {
+    "texte": "Qui représente l'État au niveau du département ?",
+    "propositions": ["Le maire", "Le préfet", "Le député", "Le chef d'arrondissement"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 11 définit le préfet comme le représentant de l'État dans le département."
+  },
+  {
+    "texte": "Le préfet est-il assisté par un secrétaire général ?",
+    "propositions": ["Non", "Oui", "Seulement dans les grands départements", "Uniquement pour les finances"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 14 prévoit que le préfet est assisté par un secrétaire général nommé par décret."
+  },
+  {
+    "texte": "Quelle est la mission principale du préfet ?",
+    "propositions": ["Gérer les communes", "Assurer la coordination des services déconcentrés de l'État", "Organiser les élections locales", "Gérer le budget communal"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 12 indique que le préfet coordonne les services déconcentrés et assure l'exécution des lois."
+  },
+  {
+    "texte": "Le préfet préside-t-il la conférence administrative départementale ?",
+    "propositions": ["Non", "Oui", "Seulement en cas d'absence", "Uniquement pour les questions financières"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 17 stipule que le préfet préside la conférence administrative départementale."
+  },
+  {
+    "texte": "Le préfet peut-il réquisitionner des agents communaux ?",
+    "propositions": ["Non", "Oui, en cas de nécessité pour l'ordre public", "Seulement le maire", "Uniquement en temps de guerre"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 141 permet au préfet de réquisitionner des personnes ou biens pour l'ordre public."
+  },
+  {
+    "texte": "Le département dispose-t-il d'un budget propre ?",
+    "propositions": ["Oui", "Non, il relève du budget de l'État", "Seulement pour les infrastructures", "Uniquement pour les salaires"],
+    "bonneReponseIndex": 1,
+    "explication": "Le département n'est pas une collectivité décentralisée, donc pas de budget propre (article 5)."
+  },
+  {
+    "texte": "Qui nomme le préfet ?",
+    "propositions": ["Le Ministre de l'Intérieur", "Le Président de la République sur proposition du Ministre chargé de la décentralisation", "L'Assemblée nationale", "Les maires du département"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 13 prévoit la nomination du préfet par décret du Président sur proposition du Ministre."
+  },
+  {
+    "texte": "Le préfet assure-t-il la tutelle sur les communes ?",
+    "propositions": ["Non", "Oui, contrôle de légalité et assistance", "Seulement financière", "Uniquement pour les arrondissements"],
+    "bonneReponseIndex": 1,
+    "explication": "Les articles 15 et 16 définissent le rôle de tutelle du préfet sur les collectivités locales."
+  },
+  {
+    "texte": "La conférence administrative départementale se réunit-elle périodiquement ?",
+    "propositions": ["Non", "Oui, au moins une fois par trimestre", "Seulement annuellement", "Uniquement sur demande"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 18 fixe la réunion de la conférence au moins une fois par trimestre."
+  },
+  {
+    "texte": "Le préfet peut-il déléguer ses pouvoirs ?",
+    "propositions": ["Non", "Oui, à ses collaborateurs ou aux maires", "Seulement au secrétaire général", "Uniquement en cas d'absence"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 19 permet au préfet de déléguer certains pouvoirs à ses collaborateurs ou aux maires."
+  },
+  {
+    "texte": "Le préfet est-il responsable de la sécurité dans le département ?",
+    "propositions": ["Non", "Oui, il veille au maintien de l'ordre public", "Seulement en zone urbaine", "Uniquement pour les élections"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 12 attribue au préfet la responsabilité de la sécurité et de l'ordre public."
+  },
+  {
+    "texte": "Existe-t-il un conseil départemental élu ?",
+    "propositions": ["Oui", "Non, seulement une conférence administrative", "Seulement dans certains départements", "Oui, pour les finances"],
+    "bonneReponseIndex": 1,
+    "explication": "La loi ne prévoit pas de conseil départemental élu ; le département est déconcentré (article 5)."
+  },
+  {
+    "texte": "Le préfet contrôle-t-il l'exécution du budget communal ?",
+    "propositions": ["Non", "Oui, dans le cadre de la tutelle", "Seulement les recettes", "Uniquement les dépenses"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 16 inclut le contrôle budgétaire dans les attributions de tutelle du préfet."
+  },
+  {
+    "texte": "Le secrétaire général du département assiste-t-il le préfet ?",
+    "propositions": ["Non", "Oui, dans l'exercice de ses attributions", "Seulement pour l'administration", "Uniquement pour la sécurité"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 14 définit le secrétaire général comme assistant du préfet dans toutes ses attributions."
+  },
+  {
+    "texte": "Le préfet peut-il suspendre un maire ?",
+    "propositions": ["Non", "Oui, pour faute grave après avis du Ministre", "Seulement définitivement", "Uniquement pour corruption"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 20 permet au préfet de suspendre un maire pour faute grave, avec avis du Ministre."
+  },
+  {
+    "texte": "La conférence administrative départementale inclut-elle les maires ?",
+    "propositions": ["Non", "Oui, les maires ou leurs représentants", "Seulement le maire du chef-lieu", "Uniquement les préfets adjoints"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 17 inclut les maires ou leurs représentants dans la composition de la conférence."
+  },
+  {
+    "texte": "Le préfet publie-t-il les actes administratifs ?",
+    "propositions": ["Non", "Oui, il assure la publication des lois et règlements dans le département", "Seulement les décrets présidentiels", "Uniquement les arrêtés communaux"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 12 attribue au préfet la publication des lois et règlements dans le département."
+  },
+  {
+    "texte": "Le département a-t-il un rôle en matière de développement économique ?",
+    "propositions": ["Non", "Oui, coordination des actions de développement", "Seulement agricole", "Uniquement touristique"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 15 inclut la coordination des actions de développement économique parmi les attributions du préfet."
+  },
+  {
+    "texte": "Le préfet peut-il convoquer le conseil communal ?",
+    "propositions": ["Non", "Oui, en cas de dysfonctionnement", "Seulement pour le budget", "Uniquement sur demande du maire"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 16 permet au préfet de convoquer le conseil communal en cas de dysfonctionnement."
+  },
+  {
+    "texte": "Le préfet est-il responsable de la protection civile ?",
+    "propositions": ["Non", "Oui, organisation des secours et protection des populations", "Seulement en cas de catastrophe naturelle", "Uniquement pour les incendies"],
+    "bonneReponseIndex": 1,
+    "explication": "L'article 12 attribue au préfet la responsabilité de la protection civile et des secours."
+  }
+]
