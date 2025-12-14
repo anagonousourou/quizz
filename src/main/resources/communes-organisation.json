@@ -1,7 +1,7 @@
 [
   {
     "texte": "Quel est le rôle du conseil communal ?",
-    "propositions": ["Exécutif", "Délibérant sur les affaires communales", "Tutelle", "Judiciaire"],
+    "propositions": ["Exécutif", "Organe délibérant sur les affaires communales", "Organe de tutelle", "Judiciaire"],
     "bonneReponseIndex": 1,
     "explication": "L'article 63 définit le conseil communal comme l'organe délibérant qui statue sur les affaires communales."
   },
@@ -25,9 +25,9 @@
   },
   {
     "texte": "Le conseil communal se réunit-il en session ordinaire ?",
-    "propositions": ["Non", "Oui, au moins 4 fois par an", "Seulement extraordinaire", "Uniquement pour le budget"],
+    "propositions": ["Non", "Oui, au moins quatre fois par an", "Seulement en session extraordinaire", "Uniquement pour le budget"],
     "bonneReponseIndex": 1,
-    "explication": "L'article 67 prévoit au moins 4 sessions ordinaires par an."
+    "explication": "L'article 67 prévoit au moins quatre sessions ordinaires par an."
   },
   {
     "texte": "Qui convoque le conseil communal ?",
@@ -37,25 +37,25 @@
   },
   {
     "texte": "Le quorum pour les délibérations du conseil communal est-il requis ?",
-    "propositions": ["Non", "Oui, majorité absolue des membres", "Moitié seulement", "Un tiers"],
+    "propositions": ["Non", "Oui, la majorité absolue des membres", "La moitié des membres", "Un tiers des membres"],
     "bonneReponseIndex": 1,
-    "explication": "L'article 70 requiert la majorité absolue des membres pour le quorum."
+    "explication": "L'article 70 exige la majorité absolue des membres pour la validité des délibérations."
   },
   {
     "texte": "Les délibérations du conseil communal sont-elles publiques ?",
-    "propositions": ["Non", "Oui, sauf huis clos décidé", "Toujours secrètes", "Uniquement pour le budget"],
+    "propositions": ["Non", "Oui, sauf décision de huis clos", "Toujours secrètes", "Uniquement pour le budget"],
     "bonneReponseIndex": 1,
-    "explication": "L'article 71 indique que les séances sont publiques, sauf décision de huis clos."
+    "explication": "L'article 71 prévoit que les séances sont publiques sauf décision de huis clos."
   },
   {
     "texte": "Le maire peut-il être suspendu par le conseil communal ?",
-    "propositions": ["Oui", "Non, seulement par le préfet ou le Ministre", "Avec majorité simple", "Uniquement pour faute"],
+    "propositions": ["Oui", "Non, uniquement par le préfet ou le ministre compétent", "Oui, à la majorité simple", "Uniquement en cas de faute légère"],
     "bonneReponseIndex": 1,
-    "explication": "L'article 83 permet la suspension du maire par le Ministre sur rapport du préfet."
+    "explication": "L'article 83 prévoit la suspension du maire par le ministre sur rapport du préfet."
   },
   {
     "texte": "Existe-t-il un secrétaire exécutif dans la commune ?",
-    "propositions": ["Non", "Oui, nommé par décret pour l'administration technique", "Élu", "Uniquement dans les communes spéciales"],
+    "propositions": ["Non", "Oui, nommé par décret et chargé de l'administration technique", "Élu par le conseil communal", "Uniquement dans les communes à statut spécial"],
     "bonneReponseIndex": 1,
     "explication": "L'article 132 définit le secrétaire exécutif comme responsable de l'administration technique de la commune."
   },
@@ -66,57 +66,57 @@
     "explication": "L'article 97 désigne le maire comme ordonnateur du budget communal."
   },
   {
-    "texte": "Les adjoints au maire sont ils élus par le conseil communal ?",
-    "propositions": ["Non", "Oui, parmi les conseillers", "Nommés par le préfet", "Désignés par le maire"],
+    "texte": "Les adjoints au maire sont-ils élus par le conseil communal ?",
+    "propositions": ["Non", "Oui, parmi les conseillers communaux", "Nommés par le préfet", "Désignés par le maire"],
     "bonneReponseIndex": 1,
     "explication": "L'article 98 prévoit l'élection des adjoints par le conseil communal parmi ses membres."
   },
   {
-    "texte": "Le maire peut-il déléguer ses pouvoirs ?",
-    "propositions": ["Non", "Oui, à ses adjoints ou conseillers", "Seulement au préfet", "Uniquement pour les finances"],
+    "texte": "Le maire peut-il déléguer une partie de ses pouvoirs ?",
+    "propositions": ["Non", "Oui, à ses adjoints ou à certains conseillers", "Uniquement au préfet", "Seulement pour les finances"],
     "bonneReponseIndex": 1,
-    "explication": "L'article 99 permet au maire de déléguer une partie de ses pouvoirs à ses adjoints ou conseillers."
+    "explication": "L'article 99 autorise le maire à déléguer une partie de ses pouvoirs."
   },
   {
     "texte": "Le secrétaire exécutif est-il sous l'autorité hiérarchique du maire ?",
-    "propositions": ["Oui", "Non, seulement pour les attributions propres du maire", "Toujours", "Uniquement administratif"],
+    "propositions": ["Non", "Oui, pour les attributions propres du maire", "Toujours et sans limite", "Uniquement pour les finances"],
     "bonneReponseIndex": 1,
-    "explication": "L'article 133 place le secrétaire exécutif sous l'autorité hiérarchique du maire."
+    "explication": "L'article 133 place le secrétaire exécutif sous l'autorité hiérarchique du maire pour les attributions propres à celui-ci."
   },
   {
     "texte": "Le conseil communal peut-il être dissous ?",
     "propositions": ["Non", "Oui, par décret motivé du Président de la République", "Par le préfet", "Par vote des conseillers"],
     "bonneReponseIndex": 1,
-    "explication": "L'article 84 permet la dissolution du conseil communal par décret motivé du Président."
+    "explication": "L'article 84 autorise la dissolution du conseil communal par décret motivé du Président de la République."
   },
   {
-    "texte": "Les arrondissements ont-ils un conseil élu ?",
-    "propositions": ["Non", "Oui, conseil d'arrondissement", "Seulement dans les villes", "Uniquement nommés"],
+    "texte": "Les arrondissements disposent-ils d'un conseil élu ?",
+    "propositions": ["Non", "Oui, le conseil d'arrondissement", "Seulement dans les villes", "Uniquement nommé"],
     "bonneReponseIndex": 1,
     "explication": "L'article 147 définit le conseil d'arrondissement comme organe délibérant de l'arrondissement."
   },
   {
     "texte": "Le chef d'arrondissement est-il nommé ou élu ?",
-    "propositions": ["Nommé par le préfet", "Élu par le conseil d'arrondissement", "Désigné par le maire", "Élu au suffrage universel"],
+    "propositions": ["Nommé par le préfet", "Élu par le conseil d'arrondissement", "Désigné par le maire", "Élu au suffrage universel direct"],
     "bonneReponseIndex": 1,
     "explication": "L'article 151 prévoit l'élection du chef d'arrondissement par le conseil d'arrondissement."
   },
   {
-    "texte": "Les villages ont-ils un chef élu ?",
-    "propositions": ["Non", "Oui, par l'assemblée villageoise", "Nommé par le maire", "Désigné par le préfet"],
+    "texte": "Les villages disposent-ils d'un chef élu ?",
+    "propositions": ["Non", "Oui, élu par l'assemblée villageoise", "Nommé par le maire", "Désigné par le préfet"],
     "bonneReponseIndex": 1,
     "explication": "L'article 170 prévoit l'élection du chef de village par l'assemblée villageoise."
   },
   {
-    "texte": "Le conseil de village est-il consultatif ?",
-    "propositions": ["Non", "Oui, il assiste le chef de village", "Délibérant", "Exécutif"],
+    "texte": "Le conseil de village a-t-il un rôle consultatif ?",
+    "propositions": ["Non", "Oui, il assiste le chef de village", "Organe délibérant", "Organe exécutif"],
     "bonneReponseIndex": 1,
-    "explication": "L'article 172 définit le conseil de village comme organe consultatif assistant le chef de village."
+    "explication": "L'article 172 définit le conseil de village comme organe consultatif."
   },
   {
     "texte": "La commune peut-elle créer des commissions spéciales ?",
-    "propositions": ["Non", "Oui, pour des missions spécifiques", "Seulement pour les finances", "Uniquement permanentes"],
+    "propositions": ["Non", "Oui, pour des missions spécifiques", "Uniquement pour les finances", "Seulement des commissions permanentes"],
     "bonneReponseIndex": 1,
-    "explication": "L'article 75 permet au conseil communal de créer des commissions spéciales pour des missions déterminées."
+    "explication": "L'article 75 autorise la création de commissions spéciales pour des missions déterminées."
   }
 ]
